@@ -11,6 +11,11 @@ blackrockshooter-1
 
 source: https://www.deviantart.com/matiaszero/art/Black-Rock-Shooter-time-gif-335345771
 
+calcifer-1
+
+![](https://github.com/ari-enby/ARI_flipper-animations/blob/main/Uncompiled%20GIFs/ARI_calcifer-1.gif)
+
+source: https://aminoapps.com/c/anime-empire-1/page/item/calcifer/azYr_qU8Ie7mq2DxD2XJ6xab7e75kGjl5
 
 saiki-what
 
