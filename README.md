@@ -1,6 +1,10 @@
 # ARI_flipper-animations
 Flipper Animations by Ari
 
+
+
+These are early attempts and not fully optimized. Sorry!
+
 blackrockshooter-1
 
 ![](https://github.com/ari-enby/ARI_flipper-animations/blob/main/Uncompiled%20GIFs/ARI_blackrockshooter-1.gif)
