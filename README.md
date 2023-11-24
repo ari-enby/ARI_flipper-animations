@@ -1,6 +1,11 @@
 # ARI_flipper-animations
 Flipper Animations by Ari
 
+blackrockshooter-1
+
+![](https://github.com/ari-enby/ARI_flipper-animations/blob/main/Uncompiled%20GIFs/ARI_blackrockshooter-1.gif)
+
+source: https://www.deviantart.com/matiaszero/art/Black-Rock-Shooter-time-gif-335345771
 
 
 saiki-what
